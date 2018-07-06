@@ -9,6 +9,5 @@ dependencies:
     - matplotlib
     - pandas
     - thinc
-    - urllib
     - lxml
     - tensorflow
