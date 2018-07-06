@@ -1,7 +1,6 @@
 dependencies:
   - python=3
   - pip:
-    - spacy
     - ipykernel
     - scipy
     - numpy
@@ -9,3 +8,6 @@ dependencies:
     - matplotlib
     - pandas
     - thinc
+    - lxml
+    - tensorflow
+    - pymysql
