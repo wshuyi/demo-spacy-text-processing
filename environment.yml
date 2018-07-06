@@ -11,3 +11,4 @@ dependencies:
     - thinc
     - lxml
     - tensorflow
+    - pymysql
