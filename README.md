@@ -102,7 +102,7 @@ Spacy的功能有很多。
 
 # 环境
 
-请点击[这个链接](https://mybinder.org/v2/gh/wshuyi/demo-spacy-text-processing/master?urlpath=lab/tree/demo.ipynb)（http://t.cn/R35fElv），直接进入咱们的实验环境。
+请点击[这个链接](https://mybinder.org/v2/gh/wshuyi/demo-spacy-text-processing/master?urlpath=lab/tree/demo.ipynb)(http://t.cn/R35fElv)，直接进入咱们的实验环境。
 
 对，你没看错。
 
